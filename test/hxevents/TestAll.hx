@@ -13,8 +13,11 @@ class TestAll
 {
 	public static function addTests(runner : Runner)
 	{
+		#if (cpp||php||neko)
+		#else
 		runner.addCase(new TestAsyncDispatcher());
 		runner.addCase(new TestAsyncNotifier());
+		#end
 	}
 	
 	public static function main()
