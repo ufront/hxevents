@@ -1,0 +1,15 @@
+-cp src 
+-cp test 
+-lib utest 
+-main TestAll.hx
+-neko bin/testall.n
+
+-cmd neko bin/testall.n
+
+--next 
+
+-cp src 
+-cp test 
+-lib utest 
+-main TestAll.hx
+-js bin/testall.js
