@@ -1,0 +1,13 @@
+{
+  "name": "hxevents",
+  "license": "LGPL",
+  "tags": ["events","cross","js","dom"],
+  "description": "Simple and Generic Event system for Haxe",
+  "contributors": ["jason"],
+  "releasenote": "Haxe3 release",
+  "version": "0.3.4",
+  "url": "https://github.com/fponticelli/hxevents/commits/master",
+  "dependencies": {
+
+  }
+}
