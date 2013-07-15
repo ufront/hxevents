@@ -5,9 +5,9 @@
   "tags": ["events","cross","js","dom"],
   "description": "Simple and Generic Event system for Haxe",
   "contributors": ["fponticelli","jason"],
-  "releasenote": "Haxe3 release",
-  "version": "0.3.4",
-  "url": "https://github.com/fponticelli/hxevents/commits/master",
+  "releasenote": "Added ReverseDispatcher",
+  "version": "0.4.0",
+  "url": "https://github.com/ufront/hxevents/",
   "dependencies": {
 
   }

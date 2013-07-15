@@ -4,7 +4,7 @@
 -main TestAll.hx
 -neko bin/testall.n
 
--xml bin/haxedoc.xml
+-xml haxedoc.xml
 -cmd neko bin/testall.n
 
 --next 
